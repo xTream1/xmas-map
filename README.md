@@ -1,2 +1,4 @@
 # xmas-map
-Script is only for VRP .For help text me xTream#8394 *discord*
+VRP ONLY!
+**Guide for install**
+Extract the winrar in resources folder and add the folder name in server.cfg. Done , have fun!
